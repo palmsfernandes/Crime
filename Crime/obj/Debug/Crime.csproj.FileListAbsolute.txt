@@ -1,0 +1,6 @@
+C:\Users\vinicius.fernandes\Desktop\CSharp\Crime\Crime\bin\Debug\Crime.exe.config
+C:\Users\vinicius.fernandes\Desktop\CSharp\Crime\Crime\bin\Debug\Crime.exe
+C:\Users\vinicius.fernandes\Desktop\CSharp\Crime\Crime\bin\Debug\Crime.pdb
+C:\Users\vinicius.fernandes\Desktop\CSharp\Crime\Crime\obj\Debug\Crime.csprojAssemblyReference.cache
+C:\Users\vinicius.fernandes\Desktop\CSharp\Crime\Crime\obj\Debug\Crime.exe
+C:\Users\vinicius.fernandes\Desktop\CSharp\Crime\Crime\obj\Debug\Crime.pdb
